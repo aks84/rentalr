@@ -1,0 +1,13 @@
+<div class="users">
+	<%= link_to "Home", root_path %>
+	<%= link_to "Orders", product_orders_path(1) %>
+	<% if user_signed_in? %>
+
+	<%= link_to "Sign out", destroy_user_session_path, method: :delete %>
+	<% else %>
+	<%= link_to "Sign in", new_user_session_path %>
+	<% end -%>
+
+
+
+</div>
