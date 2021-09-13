@@ -1,4 +1,4 @@
-# README
+# Rentalr - A Ruby on Rails 6 App
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -21,5 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-# rentalr
+For more learn more about creating your very first with [Ruby on Rails app tutorial](https://tubemint.com/how-to-install-ruby-on-rails-on-windows-10/) from scratch.
